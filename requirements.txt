@@ -1,0 +1,6 @@
+streamlit
+psycopg2
+mysql-connector-python
+python-dotenv
+pandas
+pytz
